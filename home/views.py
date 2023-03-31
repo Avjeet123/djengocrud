@@ -6,6 +6,7 @@ from django.contrib import messages
 
 # Create your views here.
 #avjeet.
+#abhishek
 def index(request):
     context = {
         'variable': "this is sent"
