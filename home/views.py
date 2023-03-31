@@ -5,7 +5,7 @@ from django.contrib import messages
 
 
 # Create your views here.
-
+#avjeet.
 def index(request):
     context = {
         'variable': "this is sent"
